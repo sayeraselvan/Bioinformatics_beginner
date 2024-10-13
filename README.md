@@ -34,7 +34,8 @@ alias ..='cd ..'
 alias ...='cd ../../'
 alias ....='cd ../../../'
 alias .....='cd ../../../../'
-(i add the alias command lines onto our respective bash_profile so that i dont have to use alias everytime when i open my terminal)
+# I add the alias command lines onto our respective bash_profile so that i dont have to use alias everytime when i open my terminal
+```
 
 ## References
 
