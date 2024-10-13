@@ -1,6 +1,6 @@
 ---
-title: "Bioinformatics One-Liners"
-description: "Revised Bioinformatics Linux Commands"
+Title: "Bioinformatics One-Liners"
+Description: "Revised Bioinformatics Linux Commands"
 ---
 
 # Welcome to the Bioinformatics Cheatsheet
