@@ -1,7 +1,7 @@
 
 # Welcome to the Bioinformatics Cheatsheet
 
-Hi all, this is me documenting some of the useful `awk` and `sed` commands that can be used in Linux-Ubuntu for bioinformatics tasks. My edition has modified and revised this. Thank you!
+Hi all, this is me documenting some of the useful `awk` and `sed` commands that can be used in Linux-Ubuntu for bioinformatics tasks. Along with this, I will be adding all my bioinformtics command lines used for NGS data analysis for the process. My edition has modified and revised this. Thank you!
 
 ## Basic File Operations
 Here are some fundamental commands for file operations:
