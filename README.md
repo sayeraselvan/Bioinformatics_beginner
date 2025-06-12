@@ -15,8 +15,8 @@ Hi all, this is me documenting some of the useful `awk` and `sed` commands that 
 ## Basic File Operations
 Here are some fundamental commands for file operations:
 
-'''
-wc -l filename # Count the number of lines in a file
+
+*wc -l filename # Count the number of lines in a file
 ls | wc -l # Count the number of files in the current directory
 tac filename # Print the file in reverse line order
 rev filename # Reverse each line in the file
@@ -27,7 +27,7 @@ cd /path/to/directory # Change directory
 cd ~ # Go to the home directory
 cat file1 file2 ... > out # Concatenate files into one output file
 paste file1 file2 > out # Merge two files horizontally
-'''
+
 
 ---
 
