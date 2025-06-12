@@ -81,6 +81,7 @@ awk '{print $0,$4+$5}' input.txt        # Add columns 4 and 5 and print the resu
 
 
 
+
 ### sed Examples
 
 sed -n '20p'                            # Print only line number 20
